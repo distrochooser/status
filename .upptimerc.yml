@@ -3,12 +3,14 @@ repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: Distrochooser Frontend
     url: https://distrochooser.de
+    icon: https://distrochooser.de/icon.svg
   - name: Distrochooser Backend
     url: https://waldorf5.distrochooser.de/
     expectedStatusCodes:
       - 404  
   - name: Distrochooser Frontend (beta)
     url: https://beta.distrochooser.de
+    icon: https://distrochooser.de/icon.svg
   - name: Distrochooser Backend (beta)
     url: https://waldorfbeta.distrochooser.de/
     expectedStatusCodes:
@@ -19,4 +21,13 @@ status-website:
   baseUrl: /status
   name: Distrochooser status  
   introTitle: "System status of the distrochooser.de project"
-  introMessage: "System overview for distrochooser.de"
+  introMessage: "System overview for distrochooser.de, updated hourly"
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 * * * *"
