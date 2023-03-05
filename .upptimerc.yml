@@ -17,7 +17,7 @@ sites: # List of endpoints to track
   - name: Distrochooser Backend (beta)
     url: https://waldorfbeta.distrochooser.de/
     expectedStatusCodes:
-      - 404m
+      - 404
     maxResponseTime: 1500
 assignees: # Users to assign downtime issues (optional)
   - cmllr
