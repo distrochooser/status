@@ -1,5 +1,5 @@
 owner: distrochooser # GitHub username
-repo: distrochooser # GitHub repository name
+repo: status # GitHub repository name
 sites: # List of endpoints to track
   - name: Distrochooser Frontend
     url: https://distrochooser.de
