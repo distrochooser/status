@@ -25,7 +25,7 @@ status-website:
   baseUrl: /status
   name: Distrochooser status  
   introTitle: "System status of the distrochooser.de project"
-  introMessage: "System overview for distrochooser.de, updated each 30 minutes"
+  introMessage: "System overview for distrochooser.de, updated each hour"
   faviconSvg: https://distrochooser.de/icon.svg
   logoUrl: https://distrochooser.de/icon.svg
 workflowSchedule:
@@ -35,4 +35,4 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/30 * * * *"
+  uptime: "0 * * * *"
