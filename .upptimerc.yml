@@ -11,4 +11,5 @@ assignees: # Users to assign downtime issues (optional)
   - cmllr
 status-website:
   baseUrl: /status
-  name: Distrochooser status
+  name: Distrochooser status  
+  introTitle: "System status of the distrochooser.de project"
