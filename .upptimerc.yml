@@ -4,7 +4,9 @@ sites: # List of endpoints to track
   - name: Distrochooser Frontend
     url: https://distrochooser.de
   - name: Distrochooser Backend
-    url: https://waldorf5.distrochooser.de/ssrdata/de/
+    url: https://waldorf5.distrochooser.de/
+    expectedStatusCodes:
+      - 404
 assignees: # Users to assign downtime issues (optional)
   - cmllr
 status-website:
