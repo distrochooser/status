@@ -4,19 +4,19 @@
     "url": "https://distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 1111,
-    "timeWeek": 966,
-    "timeMonth": 981,
-    "timeYear": 981,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "96.00%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 978,
+    "timeDay": 1001,
+    "timeWeek": 957,
+    "timeMonth": 978,
+    "timeYear": 978,
     "dailyMinutesDown": {
-      "2023-03-20": 1
+      "2023-03-20": 58
     }
   },
   {
