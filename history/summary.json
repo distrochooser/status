@@ -5,11 +5,11 @@
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.64%",
-    "uptimeYear": "99.64%",
+    "uptimeYear": "99.65%",
     "time": 1007,
     "timeDay": 1096,
     "timeWeek": 1114,
@@ -28,7 +28,7 @@
     "slug": "distrochooser-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,7 +37,9 @@
     "timeWeek": 898,
     "timeMonth": 828,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-05": 0
+    }
   },
   {
     "name": "Distrochooser Frontend (beta)",
