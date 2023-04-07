@@ -4,10 +4,10 @@
     "url": "https://distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "99.67%",
     "time": 996,
@@ -16,6 +16,7 @@
     "timeMonth": 1010,
     "timeYear": 996,
     "dailyMinutesDown": {
+      "2023-04-07": 2,
       "2023-03-22": 47,
       "2023-03-21": 51,
       "2023-03-20": 58
@@ -26,10 +27,10 @@
     "url": "https://waldorf5.distrochooser.de/",
     "icon": "https://icons.duckduckgo.com/ip3/waldorf5.distrochooser.de.ico",
     "slug": "distrochooser-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.41%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.40%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.87%",
     "time": 824,
@@ -38,6 +39,7 @@
     "timeMonth": 815,
     "timeYear": 824,
     "dailyMinutesDown": {
+      "2023-04-07": 1,
       "2023-04-05": 59
     }
   },
@@ -46,10 +48,10 @@
     "url": "https://beta.distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 944,
@@ -57,16 +59,18 @@
     "timeWeek": 975,
     "timeMonth": 946,
     "timeYear": 944,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-07": 1
+    }
   },
   {
     "name": "Distrochooser Backend (beta)",
     "url": "https://waldorfbeta.distrochooser.de/",
     "icon": "https://icons.duckduckgo.com/ip3/waldorfbeta.distrochooser.de.ico",
     "slug": "distrochooser-backend-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -76,6 +80,7 @@
     "timeMonth": 811,
     "timeYear": 804,
     "dailyMinutesDown": {
+      "2023-04-07": 0,
       "2023-03-05": 5
     }
   }
