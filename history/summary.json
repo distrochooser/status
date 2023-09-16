@@ -55,9 +55,9 @@
     "url": "https://beta.distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend-beta",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.96%",
@@ -67,6 +67,7 @@
     "timeMonth": 838,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2023-09-16": 0,
       "2023-09-14": 57,
       "2023-04-07": 61
     }
