@@ -10,15 +10,6 @@ sites: # List of endpoints to track
     expectedStatusCodes:
       - 404  
     maxResponseTime: 1500
-  - name: Distrochooser Frontend (beta)
-    url: https://beta.distrochooser.de
-    icon: https://distrochooser.de/icon.svg
-    maxResponseTime: 1500
-  - name: Distrochooser Backend (beta)
-    url: https://waldorfbeta.distrochooser.de/
-    expectedStatusCodes:
-      - 404
-    maxResponseTime: 1500
 assignees: # Users to assign downtime issues (optional)
   - cmllr
 status-website:
