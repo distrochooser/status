@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.94%",
-    "time": 968,
-    "timeDay": 1020,
-    "timeWeek": 958,
-    "timeMonth": 919,
+    "time": 967,
+    "timeDay": 866,
+    "timeWeek": 965,
+    "timeMonth": 913,
     "timeYear": 964,
     "dailyMinutesDown": {
       "2024-09-04": 74,
@@ -29,16 +29,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/waldorf5.distrochooser.de.ico",
     "slug": "distrochooser-backend",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 774,
-    "timeDay": 885,
-    "timeWeek": 765,
-    "timeMonth": 734,
-    "timeYear": 773,
+    "timeDay": 368,
+    "timeWeek": 740,
+    "timeMonth": 719,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-08-29": 60,
       "2024-08-15": 61,
@@ -50,8 +50,7 @@
       "2024-01-06": 61,
       "2023-12-08": 57,
       "2023-12-01": 59,
-      "2023-10-25": 54,
-      "2023-10-01": 55
+      "2023-10-25": 54
     }
   }
 ]
