@@ -28,7 +28,7 @@
     "url": "https://waldorf5.distrochooser.de/",
     "icon": "https://icons.duckduckgo.com/ip3/waldorf5.distrochooser.de.ico",
     "slug": "distrochooser-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
     "uptimeDay": "95.83%",
     "uptimeWeek": "87.11%",
@@ -40,6 +40,7 @@
     "timeMonth": 570,
     "timeYear": 705,
     "dailyMinutesDown": {
+      "2025-01-17": 0,
       "2025-01-16": 60,
       "2025-01-15": 240,
       "2025-01-14": 172,
