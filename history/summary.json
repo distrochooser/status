@@ -4,7 +4,7 @@
     "url": "https://distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 959,
     "timeYear": 935,
     "dailyMinutesDown": {
+      "2025-03-30": 0,
       "2024-11-28": 60,
       "2024-11-14": 56,
       "2024-11-11": 72,
