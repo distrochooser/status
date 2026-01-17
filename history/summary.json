@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 998,
-    "timeDay": 1243,
-    "timeWeek": 1042,
+    "time": 999,
+    "timeDay": 1450,
+    "timeWeek": 1130,
     "timeMonth": 1098,
-    "timeYear": 1011,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-11-23": 52,
       "2025-08-28": 57,
@@ -28,21 +28,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/waldorf5.distrochooser.de.ico",
     "slug": "distrochooser-backend",
     "status": "up",
-    "uptime": "99.69%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.70%",
-    "uptimeYear": "99.86%",
-    "time": 802,
-    "timeDay": 1070,
-    "timeWeek": 1010,
-    "timeMonth": 1083,
-    "timeYear": 846,
+    "uptimeYear": "99.87%",
+    "time": 803,
+    "timeDay": 1232,
+    "timeWeek": 1029,
+    "timeMonth": 1080,
+    "timeYear": 848,
     "dailyMinutesDown": {
       "2026-01-13": 132,
       "2025-09-17": 57,
-      "2025-01-18": 176,
-      "2025-01-17": 298
+      "2025-01-18": 176
     }
   }
 ]
