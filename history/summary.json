@@ -4,23 +4,24 @@
     "url": "https://distrochooser.de",
     "icon": "https://distrochooser.de/icon.svg",
     "slug": "distrochooser-frontend",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1034,
-    "timeDay": 1100,
-    "timeWeek": 965,
-    "timeMonth": 1016,
-    "timeYear": 1085,
+    "time": 1035,
+    "timeDay": 1322,
+    "timeWeek": 1038,
+    "timeMonth": 1033,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2025-08-03": 39,
       "2025-08-28": 57,
       "2025-11-23": 52,
       "2026-03-30": 63,
-      "2026-05-19": 104
+      "2026-05-19": 104,
+      "2026-07-31": 0
     }
   },
   {
