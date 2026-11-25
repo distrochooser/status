@@ -47,19 +47,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/waldorf6.distrochooser.de.ico",
     "slug": "distrochooser-6-backend",
     "status": "up",
-    "uptime": "12.32%",
-    "uptimeDay": "12.32%",
-    "uptimeWeek": "12.32%",
-    "uptimeMonth": "12.32%",
-    "uptimeYear": "12.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 692,
     "timeDay": 692,
     "timeWeek": 692,
     "timeMonth": 692,
     "timeYear": 692,
-    "dailyMinutesDown": {
-      "2026-11-25": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Distrochooser 6 Assets",
