@@ -1,7 +1,7 @@
 owner: distrochooser # GitHub username
 repo: status # GitHub repository name
 sites: # List of endpoints to track
-  - name: Distrochooser Frontend
+  - name: Distrochooser 5 Frontend
     url: https://distrochooser.de
     icon: https://distrochooser.de/icon.svg
     maxResponseTime: 1500
@@ -10,11 +10,16 @@ sites: # List of endpoints to track
     expectedStatusCodes:
       - 404  
     maxResponseTime: 1500
+  - name: Distrochooser 6 Frontend
+    url: https://beta.distrochooser.de
+    icon: https://assets6.distrochooser.de/icon.svg
   - name: Distrochooser 6 Backend
     url: https://waldorf6.distrochooser.de/ping
+    icon: https://assets6.distrochooser.de/icon.svg
     maxResponseTime: 1500
   - name: Distrochooser 6 Assets
     url: https://assets6.distrochooser.de/icon.svg
+    icon: https://assets6.distrochooser.de/icon.svg
     maxResponseTime: 1500
 assignees: # Users to assign downtime issues (optional)
   - cmllr
