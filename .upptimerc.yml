@@ -5,10 +5,16 @@ sites: # List of endpoints to track
     url: https://distrochooser.de
     icon: https://distrochooser.de/icon.svg
     maxResponseTime: 1500
-  - name: Distrochooser Backend
+  - name: Distrochooser 5 Backend
     url: https://waldorf5.distrochooser.de/
     expectedStatusCodes:
       - 404  
+    maxResponseTime: 1500
+  - name: Distrochooser 6 Backend
+    url: https://waldorf6.distrochooser.de/
+    maxResponseTime: 1500
+  - name: Distrochooser 6 Assets
+    url: https://assets6.distrochooser.de/icon.svg
     maxResponseTime: 1500
 assignees: # Users to assign downtime issues (optional)
   - cmllr
@@ -17,8 +23,8 @@ status-website:
   name: Distrochooser status  
   introTitle: "System status of the distrochooser.de project"
   introMessage: "System overview for distrochooser.de, updated each hour"
-  faviconSvg: https://distrochooser.de/icon.svg
-  logoUrl: https://distrochooser.de/icon.svg
+  faviconSvg: https://assets6.distrochooser.de/icon.svg
+  logoUrl: https://assets6.distrochooser.de/icon.svg
 workflowSchedule:
   graphs: "0 0 * * *"
   responseTime: "0 23 * * *"
