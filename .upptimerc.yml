@@ -11,7 +11,7 @@ sites: # List of endpoints to track
       - 404  
     maxResponseTime: 1500
   - name: Distrochooser 6 Backend
-    url: https://waldorf6.distrochooser.de/
+    url: https://waldorf6.distrochooser.de/ping
     maxResponseTime: 1500
   - name: Distrochooser 6 Assets
     url: https://assets6.distrochooser.de/icon.svg
