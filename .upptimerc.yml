@@ -12,7 +12,7 @@ sites: # List of endpoints to track
       - 404  
     maxResponseTime: 1500
   - name: Distrochooser 6 Frontend
-    url: https://beta.distrochooser.de
+    url: https://distrochooser.de
     icon: https://assets6.distrochooser.de/icon.svg
   - name: Distrochooser 6 Backend
     url: https://waldorf6.distrochooser.de/ping
